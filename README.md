@@ -39,6 +39,9 @@
 ![Simon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=simonnes112&show_icons=true&theme=github_dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonnes112&layout=compact&theme=github_dark)
 
+
+![GitLab Stats](https://gitlab-stats.onrender.com/api/user?username=simonnes&theme=dark)
+
 ---
 
 > 💬 "Good code doesn’t just work — it should also be clean, readable, and a joy to build on."
