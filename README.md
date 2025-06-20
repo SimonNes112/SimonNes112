@@ -27,7 +27,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/simonnes/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonnes/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://simon-nes.dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/simonnes112)
 
