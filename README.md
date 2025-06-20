@@ -18,17 +18,18 @@
 ---
 
 ## 🌍 About Me
- 
+
 - 🧪 Learning more about testing, database design & deployment  
 - 🚀 I aim for clean code, responsive designs, and scalable applications  
-- 🗣️ I enjoy working in teams, iterating fast, and applying feedback to grow
+- 🗣️ I enjoy working in teams, iterating fast, and applying feedback to grow  
+- 📁 I primarily use **GitLab** for school-related projects, but mirror some work here on GitHub
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonnes/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://simon-nes.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonnes/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://simon-nes.dev)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/simonnes112)
 
 ---
@@ -41,3 +42,4 @@
 ---
 
 > 💬 "Good code doesn’t just work — it should also be clean, readable, and a joy to build on."
+
